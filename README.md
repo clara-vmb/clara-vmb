@@ -12,3 +12,21 @@
 - ⚡ **Curiosidade:** Quando não estou trabalhando ou programando, estou tentando zerar Cuphead, fazendo algum artesanato com minha noiva e nossos pequenos, tocando bateria, aprendendo sobre investimentos com o grande Edu Moreira ou trocando altas ideias com a minha cachorra !
 
 ---
+
+<table align="center" style="border: none; background-color: transparent;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <a href="https://github.com/clara-vmb">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=clara-vmb&layout=compact&langs_count=5&theme=tokyonight" />
+      </a>
+    </td>
+    <td width="30" style="border: none;"></td> <!-- Esta coluna serve apenas como espaço -->
+    <td align="center" style="border: none;">
+      <a href="https://github.com/clara-vmb">
+        <img src="https://github-stats-extended.vercel.app/api?username=clara-vmb&custom_title=GitHub%20Stats&include_all_commits=true&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
