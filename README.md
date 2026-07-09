@@ -12,4 +12,4 @@
 - ⚡ **Curiosidade:** Quando não estou trabalhando ou programando, estou tentando zerar Cuphead, fazendo algum artesanato com minha noiva e nossos pequenos, tocando bateria, aprendendo sobre investimentos com o grande Edu Moreira ou trocando altas ideias com a minha cachorra !
 
 ---
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=clara-vmb)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=clara-vmb&layout=compact&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=clara-vmb&layout=compact&langs_count=6&theme=dark)
