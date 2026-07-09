@@ -7,6 +7,6 @@
 - 👯 **Busco colaborar em:** Ferramentas e dashboards que unam tecnologia com Psicologia Organizacional/RH e desenvolvimento de jogos indie.
 - 🤔 **Procuro ajuda com:** Prototipagem de hardware avançada e otimização de fluxos de trabalho com integrações do GitHub/Jira.
 - 💬 **Pergunte-me sobre:** HR Business Partnering, metodologias de revisão sistemática de literatura (PRISMA), desenvolvimento (Python, TypeScript, Lua) e configurações focadas em privacidade (Linux Mint).
-- 📫 **Como me encontrar:** [Meu LinkedIn][https://www.linkedin.com/in/clara-borges-rh/] 
+- 📫 **Como me encontrar:** [Meu LinkedIn](https://www.linkedin.com/in/clara-borges-rh/)
 - 😄 **Pronomes:** Ela/dela.
 - ⚡ **Curiosidade:** Quando não estou trabalhando ou programando, estou tentando zerar Cuphead, fazendo algum artesanato com minha noiva e nossos pequenos, tocando bateria, aprendendo sobre investimentos com o grande Edu Moreira ou trocando altas ideias com a minha cachorra !
