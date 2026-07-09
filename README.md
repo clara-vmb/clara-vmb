@@ -10,3 +10,11 @@
 - 📫 **Como me encontrar:** [Meu LinkedIn](https://www.linkedin.com/in/clara-borges-rh/)
 - 😄 **Pronomes:** Ela/dela.
 - ⚡ **Curiosidade:** Quando não estou trabalhando ou programando, estou tentando zerar Cuphead, fazendo algum artesanato com minha noiva e nossos pequenos, tocando bateria, aprendendo sobre investimentos com o grande Edu Moreira ou trocando altas ideias com a minha cachorra !
+
+---
+
+<div>
+<a href="https://github.com/clara-vmb">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clara-vmb&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=clara-vmb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
