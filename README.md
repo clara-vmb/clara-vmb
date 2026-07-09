@@ -13,8 +13,11 @@
 
 ---
 
-<div>
-<a href="https://github.com/clara-vmb">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clara-vmb&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=clara-vmb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <a href="https://github.com/clara-vmb">
+    <img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clara-vmb&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens"/>
+  </a>
+  <a href="https://github.com/clara-vmb">
+    <img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api?username=clara-vmb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  </a>
 </div>
