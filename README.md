@@ -13,3 +13,4 @@
 
 ---
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=clara-vmb&layout=compact&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=clara-vmb&layout=compact&langs_count=6&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=clara-vmb&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=react)](https://github-stats-extended.vercel.app/api?username=clara-vmb&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=react)
