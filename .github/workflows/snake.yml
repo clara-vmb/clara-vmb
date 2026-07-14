@@ -24,6 +24,8 @@ jobs:
       # Garante que o ambiente do GitHub Actions acesse o repositório
       - name: checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       # Gera o jogo da cobrinha a partir do gráfico de contribuições do utilizador clara-vmb
       - name: generate github-contribution-grid-snake.svg
