@@ -1,17 +1,17 @@
 name: generate animation
 
 on:
-  # Executa automaticamente a cada 24 horas
+  # Executa automaticamente uma vez por dia (à meia-noite)
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 0 * * *" 
   
   # Permite executar o job manualmente a qualquer momento
   workflow_dispatch:
   
-  # Executa a cada push no ramo principal (ajuste para 'main' se o seu repositório usar esse nome)
+  # Executa a cada push no ramo principal
   push:
     branches:
-    - master
+      - master
 
 jobs:
   generate:
@@ -19,8 +19,12 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
+
     steps:
+      # Garante que o ambiente do GitHub Actions acesse o repositório
+      - name: checkout
+        uses: actions/checkout@v4
+
       # Gera o jogo da cobrinha a partir do gráfico de contribuições do utilizador clara-vmb
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
@@ -29,10 +33,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      # Envia o conteúdo gerado para o ramo 'output'
+
+      # Envia o conteúdo gerado para o ramo 'output' usando a versão atualizada (v4)
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
