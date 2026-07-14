@@ -23,7 +23,7 @@ jobs:
     steps:
       # 1. Checkout atualizado para a versão que suporta nativamente o Node mais novo
       - name: checkout
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v5
 
       # 2. Gera o jogo da cobrinha a partir do gráfico de contribuições
       - name: generate github-contribution-grid-snake.svg
