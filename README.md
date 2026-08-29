@@ -7,13 +7,13 @@
 ### 👩‍💻 Sobre Mim
 
 - 🔭 **Atualmente estou trabalhando em:** Desenvolvimento de automações e triagem de pesquisas com agentes de IA, criação de jogos no PICO-8 (Lua) e na construção de aplicações e ferramentas utilizando Python.
-- 📗 **Atualmente estou aprendendo:** Eletrônica e robótica aplicada com Arduino, construção de WebApps com Streamlit e criação de projetos com workflow integrado com Claude Code.
+- 📗 **Atualmente estou aprendendo:** C# e criação de projetos com workflow integrado com Claude Code.
 - 💻 **Busco colaborar em:** Ferramentas e dashboards que unam tecnologia com Psicologia Organizacional/RH e desenvolvimento de jogos indie.
-- 🔓 **Procuro me aprofundar em:** Prototipagem de hardware avançada, otimização de fluxos de trabalho com integrações do GitHub/Jira e compliance.
+- 🔓 **Procuro me aprofundar em:** Prototipagem de hardware, otimização de fluxos de trabalho com integrações do GitHub/Jira e compliance.
 - 💬 **Pergunte-me sobre:** HR Business Partnering, metodologias de revisão sistemática de literatura (PRISMA), desenvolvimento com IAs agênticas e configurações focadas em privacidade.
 - 📫 **Como me encontrar:** [Meu LinkedIn](https://www.linkedin.com/in/clara-borges-rh/)
 - 👍 **Pronomes:** Ela/dela.
-- 💥 **Curiosidades sobre mim:** Quando não estou trabalhando ou programando, estou tentando zerar Cuphead, fazendo algum artesanato com minha noiva e nossos pequenos, tocando bateria, aprendendo sobre investimentos com o grande Edu Moreira ou trocando altas ideias com a minha cachorra!
+- 💥 **Curiosidades sobre mim:** Quando não estou trabalhando ou programando, jogando Breath of the Wild, fazendo algum artesanato com minha noiva e nossos pequenos, tocando bateria, aprendendo sobre investimentos com o grande Edu Moreira ou trocando altas ideias com a minha cachorra!
 
 <br>
 
